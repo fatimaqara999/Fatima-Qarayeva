@@ -19,6 +19,8 @@ public class Tapsiriq5 {
 
         // Scanner-i baglayiriq
         sc.close();
+        // Narrowing-de ondaliq hisse itir: (int) 9.87 = 9, 10 yox!
+        // Java casting yuvarlamir, sadece ondaligi kesir (atir).
     }
 
         }
